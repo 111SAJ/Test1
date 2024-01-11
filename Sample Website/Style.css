@@ -112,7 +112,6 @@ html {
     cursor: pointer;
     right: 15px;
     top: 15px;
-    display: none;
     border: 1px solid rgb(90, 66, 22);
     border-radius: 20%;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -962,7 +961,7 @@ html {
     }
     
     .v-class-resp{
-        opacity: 0;
+        display: none;
     }
 
     .side-elements-section{
